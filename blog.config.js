@@ -18,7 +18,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/AI_ist007',
+  socialLink: 'https://twitter.com/AI_ist007'
   seo: {
   socialLink: 'https://twitter.com/AI_ist007',, 'Everyday Carrying'
     keywords: ['博客', '网站', '极客', '概念', '系统化', '自动化', '人生黑客', '生活黑客','消费', '旅行', '常旅客', '酒店', '信用卡', '积分', '健康', '健身', '财务', '游戏化',  '游戏化思维', '被动收入', '睡后收入', 'Blog', 'Website', 'geek', 'Notion', 'systematic', 'automation', 'Life Hacker', 'Efficiency', 'Travel', 'Frequent Flyer', 'Hotel', 'Credit Card', 'Point', 'healthy', 'fitness', 'finance', 'Everyday Carrying', 'gamify', 'Web3', 'gamification', 'passive income'],
